@@ -10,14 +10,20 @@ title: "The R Ecosystem"
 <hr>
 <br>
 
-## Introducing R
+## The R Language
 
-R is a 30-year-old statistical language created by New Zealand statisticians Robert Gentleman and Ross Ihaka as a free alternative to proprietary software for their students at the University of Auckland. In fact, its rich lineage can be directly traced to inventor and scientist Alexander Graham Bell.
+R is a 30-year-old data programming language created by New Zealand statisticians Robert Gentleman and Ross Ihaka as a free alternative to proprietary software for their students at the University of Auckland. 
 
 <br>
 
 <iframe src="https://player.vimeo.com/video/180644880" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+<br>
+
+*Its rich lineage can actually be traced back to work that was done at Bell Laboratories by John Chambers when creating the [S Programming Language]('https://en.wikipedia.org/wiki/S_(programming_language') that served as the inspiration and model for R. It is currently supported by a [Foundation](https://www.r-project.org/foundation/) and [large team of contributors](https://www.r-project.org/contributors.html)*
+
+<br>
+<hr>
 <br>
 
 ## The R Toolkit
