@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A Crash Course in R
+title: Overview
 ---
 
 ## Overview 
