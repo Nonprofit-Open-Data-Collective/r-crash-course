@@ -16,10 +16,10 @@ minimal_theme: false         # radically minimalistic theme
 
 navigation:                  # show navigation links in the header	
   - index.md
-  - overview.md
   - packages.md	
-  - about.md
+  - overview.md
   - discuss.md 
+  - about.md
 
 
 
