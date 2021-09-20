@@ -2,6 +2,14 @@
 title: "The R Ecosystem"
 ---
 
+
+![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
+
+
+<br>
+<hr>
+<br>
+
 ## Introducing R
 
 R is a 30-year-old statistical language created by New Zealand statisticians Robert Gentleman and Ross Ihaka as a free alternative to proprietary software for their students at the University of Auckland. In fact, its rich lineage can be directly traced to inventor and scientist Alexander Graham Bell.
@@ -21,7 +29,6 @@ This seminar will cover the foundations of data programming with the R language.
 * **Markdown** is a simple formatting convention that allows you to create publication-quality documents. See: [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html). 
 * **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents. See: [A Guide to Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html). 
 
-![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
 
 
 <br>
