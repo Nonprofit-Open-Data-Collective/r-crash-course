@@ -36,6 +36,9 @@ library( pander )
 Note that the **tidyverse** is a core set of packages that you will consistently use for data wrangling and visualization. When you load the **tidyverse** package you are actually loading a large collection of packages. You can learn more at the [Tidyverse website](https://www.tidyverse.org/packages/). 
 
 
+<br>
+<hr> 
+<br> 
 
 ## Notes on Hardware 
 
