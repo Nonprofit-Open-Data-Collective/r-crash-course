@@ -20,7 +20,7 @@ R is a 30-year-old data programming language created by New Zealand statistician
 
 <br>
 
-*Its rich lineage can actually be traced back to work that was done at Bell Laboratories by John Chambers when creating the [S Programming Language]('https://en.wikipedia.org/wiki/S_(programming_language') that served as the inspiration and model for R. It is currently supported by a [Foundation](https://www.r-project.org/foundation/) and [large team of contributors](https://www.r-project.org/contributors.html)*
+*Its rich lineage can actually be traced back to work that was done at Bell Laboratories by John Chambers when creating the [S Programming Language]('https://en.wikipedia.org/wiki/S_(programming_language') that served as the inspiration and model for R. It is currently supported by a [Foundation](https://www.r-project.org/foundation/) and [large team of contributors](https://www.r-project.org/contributors.html), as well as [thousands of contributed packages](https://cran.r-project.org/web/views/).*
 
 <br>
 <hr>
