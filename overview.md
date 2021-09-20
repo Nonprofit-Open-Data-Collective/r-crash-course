@@ -16,29 +16,26 @@ Watch the video below for a brief introduction to R as it's used today.
 
 ## The R Toolkit
 
-In this course we cover the foundations of data programming with the R language. In order to create robust and dynamic analysis we need to use a couple of tools that were built to leverage the power of R and create compelling narratives.
+This seminar will cover the foundations of data programming with the R language. To create robust and dynamic analysis we can use a couple of tools that were built to leverage the power of R to create compelling narratives.
 
-**RStudio** helps you manage projects by organizing files, scripts, packages and output. **Markdown** is a simple formatting convention that allows you to create publication-quality documents. **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents.
-
-The following resources will help you get a better understanding of these tools.
-
-* [Chapter 1: Core R](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html): Learning the basics of R
-
-* [Chapter 2: RStudio](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html): RStudio's functionality and features
-
-* [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html): How R Markdown is used for interactive and dynamic reports
-
-* [A Guide to Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html): How to use Markdown - the easy-to-learn formatting syntax
-
+* **The R Language**: [Chapter 1: Core R](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html)  
+* **RStudio** helps you manage projects by organizing files, scripts, packages and output. An overview video is provided below. 
+* **Markdown** is a simple formatting convention that allows you to create publication-quality documents. See: [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html). 
+* **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents. See: [A Guide to Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html). 
 
 ![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
 
+
+<br>
+<br>
+<hr>
+<br>
+<br>
 
 ## Getting to Know RStudio
 
 RStudio is a graphical user interface (GUI) and integrated developer environment (IDE) that makes it much easier to use R for writing code, importing data, installing packages, and other features.
 
-<br>
 
 #### RStudio: A Guided Tour
 
@@ -79,6 +76,9 @@ Visit the [video](https://youtu.be/xgPwDlAtuNI) to navigate using timestamps in 
 * (**17:01**) Conclusions
 
 <br>
+<br>
+<hr>
+<br> 
 <br>
 
 ## Easy Formatting with Markdown
@@ -128,6 +128,9 @@ Visit the [video](https://youtu.be/oXgFrUq6btQ) to navigate using timestamps in 
 * (**08:23**) Formatting Hyperlinks
 * (**09:38**) Conclusion
 
+<br>
+<br>
+<hr>
 <br>
 <br>
 
