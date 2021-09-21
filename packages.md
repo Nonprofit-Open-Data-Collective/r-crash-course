@@ -5,12 +5,13 @@ title: "Getting Started"
 
 ## Set-Up
 
-Before joining the workshop try to install the R environment and necessary tools on your computer. **All of these tools are FREE.**
+Before joining the workshop try to install the R environment and necessary tools on your computer. 
 
 1. [Install R](https://cran.rstudio.com/) 
 2. [Install R Studio Desktop](https://www.rstudio.com/products/rstudio/download/)  
 3. [Register for a GitHub User Account](https://github.com/join)
 
+**All of these tools are FREE.**
 
 <br>
 <hr> 
