@@ -3,8 +3,14 @@ title: "The R Ecosystem"
 ---
 
 
-![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
+<br>
+<br>
 
+## Why Learn R? 
+
+<br>
+
+<iframe src="https://player.vimeo.com/video/180644880" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <br>
 <hr>
@@ -12,19 +18,26 @@ title: "The R Ecosystem"
 
 ## The R Language
 
-R is a 30-year-old data programming language created by New Zealand statisticians Robert Gentleman and Ross Ihaka as a free alternative to proprietary software for their students at the University of Auckland. 
+R is a 30-year-old data programming language created by New Zealand statisticians Robert Gentleman and Ross Ihaka as a free alternative to proprietary software for their students at the University of Auckland. It was modelled after the [S Programming Language]('https://en.wikipedia.org/wiki/S_(programming_language)'), invented by John Chambers while at Bell Labs. 
 
-<br>
+The language has evolved and the user community has grown considerably. R and Python are two of the most popular data programming languages used in academics and by professional data scientists. 
 
-<iframe src="https://player.vimeo.com/video/180644880" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<br>
-
-*Its rich lineage can actually be traced back to work that was done at Bell Laboratories by John Chambers when creating the [S Programming Language]('https://en.wikipedia.org/wiki/S_(programming_language') that served as the inspiration and model for R. It is currently supported by a [Foundation](https://www.r-project.org/foundation/) and [large team of contributors](https://www.r-project.org/contributors.html), as well as [thousands of contributed packages](https://cran.r-project.org/web/views/).*
+R is currently supported by a [large team of contributors](https://www.r-project.org/contributors.html), a [Foundation](https://www.r-project.org/foundation/), and [thousands of contributed packages](https://cran.r-project.org/web/views/).*
 
 <br>
 <hr>
 <br>
+
+## The Ecosystem of Tools 
+
+![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
+
+
+<br>
+<hr>
+<br>
+
+
 
 ## The R Toolkit
 
