@@ -15,11 +15,11 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
   - Public stewardship 
   - Reproducibility crisis 
   - It's fun! 
-  - R versus Python 
 * Can I learn R? 
   - Do I need a special background? 
 * How should I learn R?  
   - Where to start?  
+  - R versus Python versus others 
   - Resources and support 
 
 
