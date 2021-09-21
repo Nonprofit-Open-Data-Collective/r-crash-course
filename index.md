@@ -10,6 +10,8 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 ## Unit 1 - Motivating the Bootcamp
 
+[ [**SLIDES**](resources/r-bootcamp-ARNOVA-data-and-analytics.pdf) ]
+
 * Why should I learn R? 
   - Efficiency of research 
   - Public stewardship 
