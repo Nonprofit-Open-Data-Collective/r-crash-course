@@ -1,0 +1,5 @@
+---
+layout: help
+---
+
+Some text...
