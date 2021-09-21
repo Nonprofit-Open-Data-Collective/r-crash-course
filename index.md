@@ -37,6 +37,12 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
   - R versus Python versus others 
   - Resources and support 
 
+[Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)  
+[Data Wrangling](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)  
+[Descriptive Statistics](https://github.com/rstudio/cheatsheets/raw/master/overviewR.pdf)  
+[state2R syntax translations](http://github.com/rstudio/cheatsheets/raw/master/stata2r.pdf) 
+
+
 <br>
 <hr>
 <br>
