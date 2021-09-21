@@ -45,9 +45,9 @@ This seminar will cover the foundations of data programming with the R language.
 
 * **The R Language** [ [Overview](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]
 * **Packages in R** [ [CRAN Task View](https://cran.r-project.org/web/views/) ] 
-* **RStudio** helps you manage projects by organizing files, scripts, packages and output. An overview video is provided below. 
-* **Markdown** is a simple formatting convention that allows you to create publication-quality documents. See: [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html). 
-* **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents. See: [A Guide to Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html). 
+* **RStudio** [ [A Development Environment](https://www.rstudio.com/about/what-makes-rstudio-different/) ] 
+* **Markdown** [ [Documentation and Reporting](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) ] 
+* **R Markdown** [ [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html) ] 
 
 
 
