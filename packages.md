@@ -42,6 +42,8 @@ Note that the **tidyverse** is a core set of packages that you will consistently
 
 ## Notes on Hardware 
 
+*These are not applicable to the bootcamp, but helpful info in general.*
+
 You will need a reliable laptop or desktop computer to run these programs. They will not run on a tablet. 
 
 There are no specific hardware requirements but I would recommend the following minimum specs to work with the types of data files or computational procedures you will encounter in common data analysis: 
