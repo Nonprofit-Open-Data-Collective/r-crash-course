@@ -7,8 +7,11 @@ title: Overview
 
 This is a website to archive resources and sessions from a free Bootcamp for R series offered by the Data and Analytics Section at ARNOVA. 
 
+<br>
+<hr>
+<br>
 
-## Unit 1 - Motivating the Bootcamp
+## Module 1 - Motivating the Bootcamp
 
 [ [**SLIDES**](resources/r-bootcamp-ARNOVA-data-and-analytics.pdf) ]
 
@@ -24,21 +27,39 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
   - R versus Python versus others 
   - Resources and support 
 
-
-Overview of the R ecosystem and the path forward in the seminar. 
-* Principles of Data Programming 
-* Resources 
-* Advice 
+<br>
+<hr>
+<br>
 
 
-## Unit 2 - R fundamentals + Graphics 
+## Module 2 - R fundamentals + Graphics 
 
-## Unit 3 - Data, Packages, and APIs 
+<br>
+<hr>
+<br>
 
-## R Shiny & Simulation 
+## Module 3 - Data, Packages, and APIs 
 
-## Data-Driven Docs, Dashboards, and Reproducibility 
+<br>
+<hr>
+<br>
 
-## Text Analysis 
+## Module 4 - R Shiny & Simulation 
+
+<br>
+<hr>
+<br>
+
+## Module 5 - Data-Driven Docs, Dashboards, and Reproducibility 
+
+<br>
+<hr>
+<br>
+
+## Module 6 - Text Analysis 
+
+<br>
+<hr>
+<br>
 
 
