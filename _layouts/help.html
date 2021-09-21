@@ -6,25 +6,19 @@ layout: default
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 
 
-<body>
 
-<br>
-<br>	
-  
-<h1>Questions</h1>	
-  
+	
+<article>
 
 <br>
 {{content}}
 <br>
 	
-	
-<div>
 
 <h2> GitHub Issues Forum </h2>
 	
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for issues.." title="Type in a name" style="width:60%;padding: 12px;"> 
-<a class="uk-button uk-button-default" href="https://github.com/{{site.github_info.username}}/{{ site.github_info.website-repo}}/issues/new">New Issue</a>
+<a class="uk-button uk-button-default" href="https://github.com/{{page.repo-name}}/{{ page.github-account }}/issues/new">New Issue</a>
 <div class = "table-responsive">
   
 <table id="myTable" style="width:90%;margin-left:0px;margin-right:20px;">
@@ -36,11 +30,12 @@ layout: default
 
   </tr>
 </table>
-  
 </div>
-</div>
-</body>
 
+
+
+</article>
+	
 <script>
 function myFunction() {
   var input, filter, table, tr, td1,td2,td3, i;
@@ -64,7 +59,7 @@ function myFunction() {
 }
 </script>
 
-</body>
+
 
 <div id="gitdata" class = {{ page.repo-name }} style="display: none;">{{ page.github-account }}</div>
 <div id = "results"></div>
