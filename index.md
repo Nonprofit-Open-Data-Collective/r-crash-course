@@ -50,7 +50,35 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 <br>
 
 
-## Module 2 - R fundamentals + Graphics 
+## Module 2 - R fundamentals + Base Graphics 
+
+
+**Basics** 
+[Functions](http://ds4ps.org/dp4ss-textbook/ch-040-functions.html)
+[Data Types](http://ds4ps.org/dp4ss-textbook/ch-050-vectors.html)
+[Order of Operations](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html)
+
+**Groups** 
+[Logical Statements](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html)
+[Group Structure](http://ds4ps.org/dp4ss-textbook/p-073-group-structure.html)
+
+**Data Wrangling** 
+[Data Verbs](http://ds4ps.org/dp4ss-textbook/p-070-data-verbs.html)
+[Data Recipes](http://ds4ps.org/dp4ss-textbook/p-072-data-recipes.html)
+[Data Joins](http://ds4ps.org/dp4ss-textbook/p-076-merging-data.html)
+
+**Graphics**
+[Base Graphics](http://ds4ps.org/dp4ss-textbook/p-061-plot-basics.html)
+[Customization](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html)
+[Colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
+
+
+![image](https://user-images.githubusercontent.com/1209099/135105875-9a8ba5b2-1eda-4001-8161-051f570b6ee1.png)
+<br>
+![image](https://user-images.githubusercontent.com/1209099/135105967-f1d7cf36-5718-4605-8861-fe3b9af7cd5d.png)
+<br>
+![image](https://user-images.githubusercontent.com/1209099/135106090-f9544637-33ac-4876-b37e-4987d210b4c6.png)
+
 
 <br>
 <hr>
