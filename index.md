@@ -84,7 +84,6 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 **Cheat Sheets** 
 * [Plot Basics](resources/plot-commands.pdf) 
-* [Graphical Parameters](resources/graphical-parameters.pdf) 
 * [Graphical Parameters Cheat Sheet](resources/r-graphical-parameters-cheatsheet.pdf) 
 * [Graph Size Cheat Sheet](resources/graph-size-cheat-sheet.pdf)
 
