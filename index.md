@@ -72,9 +72,10 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 * [Intro to R](https://watts-college.github.io/cpp-526-fall-2021//schedule/)
 * [Intermediate R](https://watts-college.github.io/cpp-527-fall-2021/schedule/)
 
-![image](https://user-images.githubusercontent.com/1209099/135105875-9a8ba5b2-1eda-4001-8161-051f570b6ee1.png){:width="50%"}
-<br>
+
 ![image](https://user-images.githubusercontent.com/1209099/135105967-f1d7cf36-5718-4605-8861-fe3b9af7cd5d.png){:width="50%"}
+<br>
+![image](https://user-images.githubusercontent.com/1209099/135105875-9a8ba5b2-1eda-4001-8161-051f570b6ee1.png){:width="50%"}
 <br>
 ![image](https://user-images.githubusercontent.com/1209099/135106090-f9544637-33ac-4876-b37e-4987d210b4c6.png){:width="50%"}
 
