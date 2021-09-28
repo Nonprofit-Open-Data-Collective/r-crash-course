@@ -68,6 +68,9 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 * [Customization](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html) 
 * [Colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) 
 
+**Course Notes** 
+* [Intro to R](https://watts-college.github.io/cpp-526-fall-2021//schedule/)
+* [Intermediate R](https://watts-college.github.io/cpp-527-fall-2021/schedule/)
 
 ![image](https://user-images.githubusercontent.com/1209099/135105875-9a8ba5b2-1eda-4001-8161-051f570b6ee1.png){:width="50%"}
 <br>
