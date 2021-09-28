@@ -16,6 +16,77 @@ Master %>% head() %>% pander()
 
 
 #############
+#############    FUNCTIONS 
+#############
+
+# * arguments 
+# * argument defaults 
+# * implicit vs explicit arguments 
+# * object vs argument assignment 
+
+
+
+calcMortgage <- function( principal, years=30, APR=0.05 )
+ {
+   
+    months <- years * 12   # covert years to months
+    int.rate <- APR / 12   # convert annual rate to monthly
+    
+    # amortization formula
+    monthly.payment <- ( principal * int.rate ) / 
+                       (1 - (1 + int.rate)^(-months) )
+    
+    monthly.payment <- round( monthly.payment, 2 )
+    
+    return( monthly.payment )
+ 
+ }
+ 
+ 
+
+
+# Calculate a mortgage for a $100,000 house for 15 years with a 3 percent APR
+
+calcMortgage( principal=100000, years=15, APR=0.03 )
+
+# Notice the default arguments:
+args( calcMortgage )
+
+# Calculate a mortgage for a $100,000 house for 30 years with a 4.5 percent APR
+calcMortgage( principal=100000, years=30, APR=0.045 )
+
+# This works
+calcMortgage( principal=100000 )
+
+# These don't
+calcMortgage(  )
+calcMortgage( years=30 )
+calcMortgage( APR=0.045 )
+
+# Implicit argument calls 
+
+calcMortgage( principal=100000, years=30, APR=0.05 )
+calcMortgage( 100000, 30, 0.05 )
+
+calcMortgage( years=30, principal=100000, APR=0.05 )
+calcMortgage( 30, 100000, 0.05 )
+
+# what about these? 
+
+calcMortgage(  30, 0.05, principal=100000 )
+calcMortgage( principle=100000 )
+calcMortgage( prin=100000 )
+
+
+
+
+
+
+
+
+
+
+#############
 #############    plot() demo:   CORN ~ FERTILIZER
 #############
 
