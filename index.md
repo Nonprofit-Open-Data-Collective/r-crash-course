@@ -25,8 +25,6 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 [ [**SLIDES**](resources/r-bootcamp-ARNOVA-data-and-analytics.pdf) ]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9GF2vPioyro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)  
 [Data Wrangling](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)  
 [Descriptive Statistics](https://github.com/rstudio/cheatsheets/raw/master/overviewR.pdf)  
@@ -43,6 +41,11 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 <br>
 <hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GF2vPioyro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+<br>
 <br>
 
 
