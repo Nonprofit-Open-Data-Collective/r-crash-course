@@ -51,6 +51,8 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 ## Module 2 - R fundamentals + Base Graphics 
 
+[DEMO SCRIPT](https://raw.githubusercontent.com/Nonprofit-Open-Data-Collective/r-crash-course/main/resources/graph-demo.R)
+
 **Cheat Sheets** 
 * [Helpful Vocabulary](resources/helpful-r-vocabulary-and-styles.pdf)  
 * [Base R Cheat Sheet](resources/base-r-cheat-sheet.pdf)  
@@ -92,14 +94,16 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 * [Customization](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html) 
 * [Colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) 
 
-**Examples**
-* [compensation report](https://watts-college.github.io/cpp-527-fall-2021/labs/final-project-instructions.html#step-9-graph-results)
-
-
+<br>
 ![image](https://user-images.githubusercontent.com/1209099/135145312-988efcc5-40c3-4315-97f1-9340f0ca43e5.png)
 <br>
 ![image](https://user-images.githubusercontent.com/1209099/135145124-8513c3a7-7661-4f7e-a205-339c8247e9fd.png)
 <br>
+
+
+**Example**
+* [compensation report](https://watts-college.github.io/cpp-527-fall-2021/labs/final-project-instructions.html#step-9-graph-results)
+
 ![image](https://user-images.githubusercontent.com/1209099/135145186-f5096870-05e3-4ccb-ac77-db1fb478e883.png)
 
 
