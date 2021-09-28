@@ -48,6 +48,9 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 ## Module 2 - R fundamentals + Base Graphics 
 
+**Cheat Sheets** 
+* [Helpful Vocabulary](resources/helpful-r-vocabulary-and-styles.pdf)  
+* [Base R Cheat Sheet](resources/base-r-cheat-sheet.pdf)  
 
 **Basics** 
 * [Functions](http://ds4ps.org/dp4ss-textbook/ch-040-functions.html) 
@@ -63,10 +66,6 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 * [Data Recipes](http://ds4ps.org/dp4ss-textbook/p-072-data-recipes.html) 
 * [Data Joins](http://ds4ps.org/dp4ss-textbook/p-076-merging-data.html) 
 
-**Graphics**
-* [Base Graphics](http://ds4ps.org/dp4ss-textbook/p-061-plot-basics.html) 
-* [Customization](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html) 
-* [Colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) 
 
 **Course Notes** 
 * [Intro to R](https://watts-college.github.io/cpp-526-fall-2021//schedule/)
@@ -79,6 +78,22 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 <br>
 ![image](https://user-images.githubusercontent.com/1209099/135106090-f9544637-33ac-4876-b37e-4987d210b4c6.png){:width="50%"}
 
+
+**Cheat Sheets** 
+* [Plot Basics](resources/plot-commands.pdf) 
+* [Graphical Parameters](resources/graphical-parameters.pdf) 
+* [Graphical Parameters Cheat Sheet](resources/r-graphical-parameters-cheatsheet.pdf) 
+* [Graph Size Cheat Sheet](resources/graph-size-cheat-sheet.pdf)
+
+**Graphics**
+* [Base Graphics](http://ds4ps.org/dp4ss-textbook/p-061-plot-basics.html) 
+* [Customization](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html) 
+* [Colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) 
+
+
+
+**Examples**
+* [compensation report](https://watts-college.github.io/cpp-527-fall-2021/labs/final-project-instructions.html#step-9-graph-results)
 
 <br>
 <hr>
