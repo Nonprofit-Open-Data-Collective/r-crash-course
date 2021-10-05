@@ -53,6 +53,12 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 [DEMO SCRIPT](https://raw.githubusercontent.com/Nonprofit-Open-Data-Collective/r-crash-course/main/resources/graph-demo.R)
 
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzL21GZq-4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
 **Cheat Sheets** 
 * [Helpful Vocabulary](resources/helpful-r-vocabulary-and-styles.pdf)  
 * [Base R Cheat Sheet](resources/base-r-cheat-sheet.pdf)  
