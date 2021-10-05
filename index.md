@@ -119,6 +119,39 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 ## Module 3 - Data, Packages, and APIs 
 
+[R Package Explorer](https://shiny.rstudio.com/gallery/cran-explorer.html)  
+[Tidyverse](https://www.tidyverse.org/packages/)  
+[CRAN Task Views](https://cran.r-project.org/web/views/)  
+
+Data Types 
+* vectors 
+* data frames 
+* lists 
+
+Data Wrangling 
+* [Data Verbs (dplyr)](http://ds4ps.org/dp4ss-textbook/p-070-data-verbs.html) 
+* [Data Recipes (piping)](http://ds4ps.org/dp4ss-textbook/p-072-data-recipes.html) 
+* [Merging Datasets](http://ds4ps.org/dp4ss-textbook/p-076-merging-data.html)  
+* [Example Lab](https://watts-college.github.io/cpp-526-fall-2021//labs/lab-05-instructions.html) 
+
+Data IO
+* [Import](http://ds4ps.org/dp4ss-textbook/ch-100-importing.html)  
+* [Export](http://ds4ps.org/dp4ss-textbook/ch-101-exporting_files.html)  
+
+Data Formats 
+* CSV 
+* RDS 
+* JSON 
+* RDB 
+* ASCII 
+* XML 
+
+APIs 
+* [What is an API?](https://watts-college.github.io/cpp-527-fall-2021/practice/week-06/)
+* [Some APIs on R](https://cran.r-project.org/web/views/WebTechnologies.html)  
+* [Examples from Data Journalism](https://www.storybench.org/how-to-access-apis-in-r/)  
+
+
 <br>
 <hr>
 <br>
