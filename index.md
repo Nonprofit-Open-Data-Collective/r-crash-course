@@ -119,15 +119,16 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 ## Module 3 - Data, Packages, and APIs 
 
+There are over 20,000 packages available in R, which is great when you are a power user and know enough to leverage all of these tools, but it can be overwhelming when you are just getting started. 
+
+Here are some resources that give a broad overview of R packages by topic. A good place to start is in the Tidyverse, a set of packages that were written by the same set of authors using the same syntax "grammar" so that they all work well together. Many of these are wrapper packages that provide new names and consistent argument conventions for existing R functions. 
+
+You will find notes on data input/output operations in R so that you can load external datasets and save results when you are done with sessions. The **dplyr** package is one of the key tools you will use for data cleaning, joins, and refinement as you are preparing your data for analysis. APIs are also powerful tools that let you import data from external databases using a few lines of code. 
+
 **R Packages**
 * [R Package Explorer](https://shiny.rstudio.com/gallery/cran-explorer.html)  
 * [Tidyverse](https://www.tidyverse.org/packages/)  
 * [CRAN Task Views](https://cran.r-project.org/web/views/)  
-
-**Data Types** 
-* vectors 
-* data frames 
-* lists 
 
 **Data Wrangling** 
 * [Data Verbs (dplyr)](http://ds4ps.org/dp4ss-textbook/p-070-data-verbs.html) 
@@ -137,15 +138,11 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 **Data IO**
 * [Import](http://ds4ps.org/dp4ss-textbook/ch-100-importing.html)  
-* [Export](http://ds4ps.org/dp4ss-textbook/ch-101-exporting_files.html)  
-
-**Data Formats** 
-* CSV 
-* RDS 
-* JSON 
-* RDB 
-* ASCII 
-* XML 
+* [Export](http://ds4ps.org/dp4ss-textbook/ch-101-exporting_files.html) 
+* R Data Formats: RDS, Rdata 
+* Open Formats: CSV, JSON, XML, ASCII 
+* Proprietary Formats (load with a package): Excel .xls, Stata .dta, SPSS .sav
+* [Copy/Paste from Excel with Clipboard](https://www.johndcook.com/blog/r_excel_clipboard/)
 
 **APIs** 
 * [What is an API?](https://watts-college.github.io/cpp-527-fall-2021/practice/week-06/)
