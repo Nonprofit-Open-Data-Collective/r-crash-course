@@ -119,6 +119,12 @@ This is a website to archive resources and sessions from a free Bootcamp for R s
 
 ## Module 3 - Data, Packages, and APIs 
 
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJI6C5V23zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+ 
 There are over 20,000 packages available in R, which is great when you are a power user and know enough to leverage all of these tools, but it can be overwhelming when you are just getting started. 
 
 Here are some resources that give a broad overview of R packages by topic. A good place to start is in the Tidyverse, a set of packages that were written by the same set of authors using the same syntax "grammar" so that they all work well together. Many of these are wrapper packages that provide new names and consistent argument conventions for existing R functions. 
