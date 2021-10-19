@@ -162,6 +162,30 @@ You will find notes on data input/output operations in R so that you can load ex
 
 ## Module 4 - R Shiny & Simulation 
 
+
+**DYNAMIC WEB APPS**
+
+![](https://cdn.educba.com/academy/wp-content/uploads/2019/11/full-stack-web-developer.png)
+
+**R SHINY**
+
+R shiny replaces full-stack development with a single package. Shiny functions convert R objects to HTML+Javascript objects. 
+
+* [Example Dynamic Graphic](https://archive.nytimes.com/www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?_r=0&ref=baseball) 
+* [Shiny Overview](https://github.com/Watts-College/cpp-526-fall-2021/raw/main/lectures/shiny-widgets.pdf) 
+* [Shiny Demo](https://shiny.rstudio.com/gallery/kmeans-example.html)
+* [Demo RMD document with Shiny](https://cdn.rawgit.com/DS4PS/Data-Science-Class/53c986f1/TEMPLATES/ShinyWidgetsDemo.Rmd)
+* [Shiny Widgets Library](https://shiny.rstudio.com/gallery/widget-gallery.html) 
+
+<br>
+
+**SIMULATION WITH LOOPS**
+
+* [Introduction to Loops in R](https://watts-college.github.io/cpp-527-fall-2021/lectures/p-02-loops.html#1) 
+* [Example Constructors](https://raw.githubusercontent.com/DS4PS/cpp-527-fall-2020/master/review-sessions/week-02-loops.R)  
+* [Creating Animations w Loops](https://watts-college.github.io/cpp-527-fall-2021/lectures/Animations.html)  
+
+
 <br>
 <hr>
 <br>
