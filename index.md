@@ -162,6 +162,11 @@ You will find notes on data input/output operations in R so that you can load ex
 
 ## Module 4 - R Shiny & Simulation 
 
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iiTOE39_Qsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
 
 **DYNAMIC WEB APPS**
 
