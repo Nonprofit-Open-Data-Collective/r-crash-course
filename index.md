@@ -236,10 +236,10 @@ R shiny replaces full-stack development with a single package. Shiny functions c
 
 **EXAMPLES**
 
-* [Bespoke Mission Taxonomies](https://fjsantam.github.io/bespoke-npo-taxonomies/)
-* [Semantic Network Creation](https://nonprofit-open-data-collective.github.io/machine_learning_mission_codes/tutorials/semantic_networks.html) 
 * [Fuzzy Matching to Create Board Interlock Networks](https://lecy.github.io/arnova-2017-workshop/workshop/board_networks.html#) 
-* [Semantic Network Results](https://www.dropbox.com/s/il8s80qrqtme27x/semantic-network-comparisons.zip?dl=0)
+* [Machine Learning to Assign NTEE Codes from Missions](https://fjsantam.github.io/bespoke-npo-taxonomies/)
+* [Semantic Network Construction](https://nonprofit-open-data-collective.github.io/machine_learning_mission_codes/tutorials/semantic_networks.html) 
+* [Semantic Network Comparisons of Missions](https://www.dropbox.com/s/il8s80qrqtme27x/semantic-network-comparisons.zip?dl=0)
 
 <br>
 <hr>
