@@ -218,6 +218,8 @@ R shiny replaces full-stack development with a single package. Shiny functions c
 
 [Text as Data](https://nonprofit-open-data-collective.github.io/r-crash-course/tutorials/text-as-data-in-r.pdf)
 
+<iframe title="USATODAY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.usatoday.com/embed/video/2791495002?placement=snow-embed"></iframe>
+
 **NOTES:** 
 
 * [String Processing](https://watts-college.github.io/cpp-527-fall-2021/lectures/string-processing.html)  
