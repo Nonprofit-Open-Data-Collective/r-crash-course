@@ -227,12 +227,18 @@ R shiny replaces full-stack development with a single package. Shiny functions c
 * [String Processing](https://watts-college.github.io/cpp-527-fall-2021/lectures/string-processing.html)  
 * [String Processing Slides](https://watts-college.github.io/cpp-527-fall-2021/lectures/string-processing-slides.pdf)  
 * [Regular Expression Cheat Sheet](https://github.com/DS4PS/cpp-527-spr-2020/raw/master/lectures/regular-expressions%20one-page-cheat-sheet.pdf) 
+
+**TEXT ANALYSIS PACKAGES IN R:**
+
 * [Quanteda Quick Start](https://quanteda.io/articles/quickstart.html)
+* [R Qualitative Data Analysis (rqda)](https://martinctc.github.io/blog/a-short-r-package-review-rqda/) 
 * [StringR Package](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)
 
-**REPLICATION FILES**
+**EXAMPLES**
 
 * [Bespoke Mission Taxonomies](https://fjsantam.github.io/bespoke-npo-taxonomies/)
+* [Semantic Network Creation](https://nonprofit-open-data-collective.github.io/machine_learning_mission_codes/tutorials/semantic_networks.html) 
+* [Fuzzy Matching to Create Board Interlock Networks](https://lecy.github.io/arnova-2017-workshop/workshop/board_networks.html#) 
 * [Semantic Network Results](https://www.dropbox.com/s/il8s80qrqtme27x/semantic-network-comparisons.zip?dl=0)
 
 <br>
