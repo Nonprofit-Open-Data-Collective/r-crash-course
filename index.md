@@ -216,6 +216,20 @@ R shiny replaces full-stack development with a single package. Shiny functions c
 
 ## Module 6 - Text Analysis 
 
+[Text as Data](https://nonprofit-open-data-collective.github.io/r-crash-course/tutorials/text-as-data-in-r.pdf)
+
+**NOTES:** 
+
+* [String Processing](https://watts-college.github.io/cpp-527-fall-2021/lectures/string-processing.html)  
+* [String Processing Slides](https://watts-college.github.io/cpp-527-fall-2021/lectures/string-processing-slides.pdf)  
+* [Regular Expression Cheat Sheet](https://github.com/DS4PS/cpp-527-spr-2020/raw/master/lectures/regular-expressions%20one-page-cheat-sheet.pdf) 
+* [StringR Package](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)
+
+**REPLICATION FILES**
+
+* [Bespoke Mission Taxonomies](https://fjsantam.github.io/bespoke-npo-taxonomies/)
+* [Semantic Network Results](https://www.dropbox.com/s/il8s80qrqtme27x/semantic-network-comparisons.zip?dl=0)
+
 <br>
 <hr>
 <br>
