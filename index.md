@@ -220,11 +220,14 @@ R shiny replaces full-stack development with a single package. Shiny functions c
 
 <iframe title="USATODAY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.usatoday.com/embed/video/2791495002?placement=snow-embed"></iframe>
 
-**NOTES:** 
+[From: Cut and Paste Legislation](https://ds4ps.org/2019/04/13/cut-and-paste-legislation.html)
+
+**NOTES ON STRING PROCESSING IN R:** 
 
 * [String Processing](https://watts-college.github.io/cpp-527-fall-2021/lectures/string-processing.html)  
 * [String Processing Slides](https://watts-college.github.io/cpp-527-fall-2021/lectures/string-processing-slides.pdf)  
 * [Regular Expression Cheat Sheet](https://github.com/DS4PS/cpp-527-spr-2020/raw/master/lectures/regular-expressions%20one-page-cheat-sheet.pdf) 
+* [Quanteda Quick Start](https://quanteda.io/articles/quickstart.html)
 * [StringR Package](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)
 
 **REPLICATION FILES**
