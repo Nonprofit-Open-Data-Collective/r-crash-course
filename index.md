@@ -216,6 +216,12 @@ R shiny replaces full-stack development with a single package. Shiny functions c
 
 ## Module 6 - Text Analysis 
 
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPs5jW2aR8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
 [Text as Data](https://nonprofit-open-data-collective.github.io/r-crash-course/tutorials/text-as-data-in-r.pdf)
 
 <iframe title="USATODAY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.usatoday.com/embed/video/2791495002?placement=snow-embed"></iframe>
