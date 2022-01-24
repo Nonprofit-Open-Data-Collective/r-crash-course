@@ -3,20 +3,39 @@ title: "Getting Started"
 ---
 
 
+If you don't have a background in computer science but want to learn data programming the process of getting started can be both exciting and overwhelming. 
 
-**Beginning** 
+The resources are this site are meant to introduce you to a few of the powerful data science tools that have been built with and for the R language, one of the most popular data programming languages among academics and scientists. 
 
-Nobody tells this to people who are beginners, and I really wish somebody had told this to me.
+There is no right way to get started. Some enroll in formal university classes, some learn on the job, and others find online resources for self-study.
 
-All of us who do creative work, we get into it because we have good taste. But it’s like there is this gap. For the first couple years that you’re making stuff, what you’re making isn’t so good. It’s not that great. It’s trying to be good, it has ambition to be good, but it’s not that good.
+One approach is to pick an arbitrary project that requires programming skills and let your curiosity and your nerd instincts guide you:
 
-But your taste, the thing that got you into the game, is still killer. And your taste is good enough that you can tell that what you’re making is kind of a disappointment to you. A lot of people never get past that phase. They quit.
+<br>
 
-Everybody I know who does interesting, creative work they went through years where they had really good taste and they could tell that what they were making wasn’t as good as they wanted it to be. They knew it fell short. Everybody goes through that.
+<iframe width="315" height="560" src="https://www.youtube.com/embed/vv6umXQHzKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-And if you are just starting out or if you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Do a huge volume of work. Put yourself on a deadline so that every week or every month you know you’re going to finish one story. It is only by going through a volume of work that you’re going to catch up and close that gap. And the work you’re making will be as good as your ambitions.
+<br>
 
-I took longer to figure out how to do this than anyone I’ve ever met. It takes awhile. It’s gonna take you a while. It’s normal to take a while. You just have to fight your way through that.
+These resources are meant mostly as a gentle introduction to the R universe to gain contextual knowledge about the ecosystem before diving into to serious study. They provide concrete examples to give you a sense of what learning a data programming langauge entails and how to spend your time as you get started. 
+
+<br>
+<hr>
+<br>
+
+**Beginnings** 
+
+*Nobody tells this to people who are beginners, and I really wish somebody had told this to me.*
+
+*All of us who do creative work, we get into it because we have good taste. But it’s like there is this gap. For the first couple years that you’re making stuff, what you’re making isn’t so good. It’s not that great. It’s trying to be good, it has ambition to be good, but it’s not that good.*
+
+*But your taste, the thing that got you into the game, is still killer. And your taste is good enough that you can tell that what you’re making is kind of a disappointment to you. A lot of people never get past that phase. They quit.*
+
+*Everybody I know who does interesting, creative work they went through years where they had really good taste and they could tell that what they were making wasn’t as good as they wanted it to be. They knew it fell short. Everybody goes through that.*
+
+*And if you are just starting out or if you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Do a huge volume of work. Put yourself on a deadline so that every week or every month you know you’re going to finish one story. It is only by going through a volume of work that you’re going to catch up and close that gap. And the work you’re making will be as good as your ambitions.*
+
+*I took longer to figure out how to do this than anyone I’ve ever met. It takes awhile. It’s gonna take you a while. It’s normal to take a while. You just have to fight your way through that.*
 
 —Ira Glass [*On Failure*](https://jamesclear.com/ira-glass-failure)
 
