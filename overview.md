@@ -6,6 +6,15 @@ title: "The R Ecosystem"
 <br>
 <br>
 
+
+-----------------------
+
+* TOC
+{:toc}
+
+-----------------------
+
+
 ## Why Learn R? 
 
 <br>
@@ -38,10 +47,7 @@ R is currently supported by a [large team of contributors](https://www.r-project
 <br>
 
 
-
-## The R Toolkit
-
-This seminar will cover the foundations of data programming with the R language. To create robust and dynamic analysis we can use a couple of tools that were built to leverage the power of R to create compelling narratives.
+To create robust and dynamic analysis we can use a couple of tools that were built to leverage the power of R to create compelling narratives.
 
 * **The R Language** [ [Overview](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]
 * **Packages in R** [ [CRAN Task View](https://cran.r-project.org/web/views/) ] 
@@ -62,7 +68,7 @@ This seminar will cover the foundations of data programming with the R language.
 RStudio is a graphical user interface (GUI) and integrated developer environment (IDE) that makes it much easier to use R for writing code, importing data, installing packages, and other features.
 
 
-#### RStudio: A Guided Tour
+### A Guided Tour
 
 The following video provides a tour of the RStudio interface and key components for getting started.
 
@@ -106,7 +112,7 @@ Visit the [video](https://youtu.be/xgPwDlAtuNI) to navigate using timestamps in 
 <br> 
 <br>
 
-## Easy Formatting with Markdown
+## Markdown
 
 Markdown is a "lightweight", easy-to-learn syntax that allows you to format language with boldface, italicization, bullet points, and more, even when there's no "rich content editor" menu available.  
 
@@ -121,7 +127,7 @@ Websites and applications that support Markdown may surprise you, including:
 
 <br>
 
-#### Markdown Basics
+### Markdown Basics
 
 The following video provides a brief introduction to Markdown fundamentals.
 
@@ -160,22 +166,13 @@ Visit the [video](https://youtu.be/oXgFrUq6btQ) to navigate using timestamps in 
 <br>
 
 
-
-## What Is R Markdown?
-
-R Markdown is one of the most powerful tools you'll learn. It allows the synthesis of human language and code to perform processing and analysis tasks while explaining them to broad audiences.
-
-<br>
-
-#### R Markdown: An Introduction
+###  More Examples 
 
 The following video provides a tutorial and demonstration of R Markdown.
 
-* Locating Lab Assignment Templates
 * Creating New R Markdown Files
 * The Benefits of R Markdown
 * Customizing & Compiling
-* Completing Assignments
 
 <br>
 
