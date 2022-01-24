@@ -170,7 +170,7 @@ You will find notes on data input/output operations in R so that you can load ex
 
 
 <br>
-<hr>
+<br>
 <br>
 
 ## Module 4 - R Shiny & Simulation 
@@ -205,13 +205,42 @@ R shiny replaces full-stack development with a single package. Shiny functions c
 
 
 <br>
-<hr>
+<br>
 <br>
 
 ## Module 5 - Data-Driven Docs, Dashboards, and Reproducibility 
 
 <br>
 <hr>
+<br>
+
+Markdown is a simple text formatting _**convention**_ (it is a few simple rules, not really a language). But it was inspired by HTML - the *Hyper-Text Markup Langauge* that is used to format content on websites. The tongue-in-cheek name comes from the fact that **markdown** is a **dumbed-down version of markup**. 
+
+Visit this simple [**markdown tutorial**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and you will see that it consists of about a dozen rules for formatting text. Raw text files with these formatting tags are saved as .md files, which can be rendered into HTML, DOC, or PDF files that contain nicely-formatted text. Markdown is designed to be simple and parsimonious (it takes about 20 minutes to learn the dozen basic rules), and is used widely for documenting open source projects and creating tutorials. Platforms like GitHub use markdown extensively - all .md files will rendered into nicely formatted text files automatically.  
+
+**R Markdown** is one of many extensions of basic markdown. Normal regular markdown files often contain examples of code:
+
+```r
+# example code
+z <- x + y 
+```
+
+Markdown documents will format the code so that it is easy to read but it will not actually run the code. R Markdown will format your text **as well as execute any R code** in your file and embed the output (results, tables, graphics) in your document. In this way they are true [**data-driven documents**](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) in that they contain all of the information needed to produce a report or analysis. 
+
+The scientific community is starting to embrace data-driven documents because they solve important problems regarding reproducibility. Specifically, historically the peer-review process has required authors to explain the process of dataset construction and statisticaly modeling a very high level. Reviewers must trust that the authors know what they are doing and have not made serious mistakes. As the amount of analysis included in the typical project has grown scripts have increased in size and complexity. Data-driven documents allow authors to document and share details of the process instead of just saying, trust us - we know what we are doing. Additionally, it makes it easier to build from existing research by borrowing and extending code that exists instead of starting from scratch each time. 
+
+R Markdown has made the convention even more powerful by adding additional output types. Instead of rendering text + code as an HTML or PDF document you can ask that the analysis be output as things like Slide Decks or interactive Dashboards. This allows users to package the analysis in the format that is most appropriate for their audience. 
+
+To see some of the existing options check out:
+
+* [R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html) 
+* [R Studio Markdown Formats](https://rmarkdown.rstudio.com/formats.html) 
+
+In short, R Markdown is a stable publishing platform that is already incredibly powerful and continues to evolve. It is worthwhile investing some time in learning markdown formatting conventions and R Markdown (.RMD) files that can be run inside of R Studio.  
+
+
+<br>
+<br>
 <br>
 
 ## Module 6 - Text Analysis 
