@@ -2,12 +2,10 @@
 title: "About"
 ---
 
-<hr>
-<br>
+These lectures and research presentations were part of a series sponsored by the Data and Analytics section of ARNOVA. The group was created to support the dissemination and celebration of better data and new research methods by and for the nonprofit research community. 
 
-<iframe width="560" height="560" src="https://www.youtube.com/embed/vv6umXQHzKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Better Data + Better Methods = Better Research 
 
-<br>
-<hr>
+The presentations are archived at this site for posterity. 
 
 
