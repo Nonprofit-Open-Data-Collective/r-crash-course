@@ -3,9 +3,9 @@ title: "Getting Started"
 ---
 
 
-If you don't have a background in computer science but want to learn data programming the process of getting started can be both exciting and overwhelming. 
+If you don't have a background in computer science but want to learn data programming, the process of getting started can be both exciting and overwhelming. 
 
-The resources are this site are meant to introduce you to a few of the powerful data science tools that have been built with and for the R language, one of the most popular data programming languages among academics and scientists. 
+Resources available on this site are meant to introduce you to a few of the powerful data science tools that have been built with and for the R language, one of the most popular data programming languages for academics and social scientists. 
 
 There is no right way to get started. Some enroll in formal university classes, some learn on the job, and others find online resources for self-study.
 
@@ -17,7 +17,9 @@ One approach is to pick an arbitrary project that requires programming skills an
 
 <br>
 
-These resources are meant mostly as a gentle introduction to the R universe to gain contextual knowledge about the ecosystem before diving into to serious study. They provide concrete examples to give you a sense of what learning a data programming langauge entails and how to spend your time as you get started. 
+These resources are meant mostly as a gentle introduction to the R universe to gain contextual knowledge about the ecosystem before diving into to serious study. 
+
+They are meant as high-level background information about R and the platforms like R Studio that make it easier to conduct your analysis and package results. They also provide lots of concrete examples to give you a sense of what projects might look like. 
 
 <br>
 <hr>
